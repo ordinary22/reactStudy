@@ -1,3 +1,6 @@
 [submodule "first-react"]
 	path = first-react
 	url = https://github.com/ordinary22/first-react.git
+[submodule "rockpaperscissorGame"]
+	path = rockpaperscissorGame
+	url = https://github.com/ordinary22/rockpaperscissor.git
